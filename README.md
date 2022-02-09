@@ -12,9 +12,6 @@
   <img align="left" alt="Mahima's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
-<!-- <a href=" https://www.instagram.com/__mahima__c/">
-  <img align="left" alt="Pawan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a> -->
 <br/>
 
 
