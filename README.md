@@ -52,11 +52,18 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mahima-c&repo=Internshala&theme=light" />
 
 </a>
-<!-- <a href="https://github.com/iampawan/VelocityX">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iampawan&repo=VelocityX&theme=light" />
+<a href="https://github.com/mahima-c/AkgGram">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mahima-c&repo=AkgGram&theme=light" />
 </a>
- -->
 
+</a>
+<a href="https://github.com/mahima-c/Sales-Analysics">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mahima-c&repo=Sales-Analysics&theme=light" />
+</a>
+</a>
+<a href="https://github.com/mahima-c/Mask-Detection">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mahima-c&repo=Mask-Detection&theme=light" />
+</a>
 
 <br/>
 
