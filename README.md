@@ -25,7 +25,7 @@
 - 📫 How to reach me: mahimagupta84000@gmail.com
 - 😄 Pronouns: She/her
 <!-- - ⚡ Fun fact: ... -->
--->
+
 
 
 ### Languages and Tools:
