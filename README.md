@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there ,I am Mahima 👋
+A passionate Backend Developer and Python Developer enthusiast !
 <!--
 **mahima-c/mahima-c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
