@@ -1,8 +1,10 @@
 ### Hi there ,I am Mahima 👋
-
-
-[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahima-c&label=Views&color=blue&style=plastic" alt="mahima-c" /> </p>
+
+## A passionate Backend Developer and Python Developer enthusiast !
+
+
+
 <a href="https://www.linkedin.com/in/mahima-gupta-470653172/">
   <img align="left" alt="Mahima's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -13,8 +15,8 @@
 <a href=" https://www.instagram.com/__mahima__c/">
   <img align="left" alt="Pawan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
+<br/>
 
-##A passionate Backend Developer and Python Developer enthusiast !
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Go
 - 👯 I’m looking to collaborate on ...
@@ -40,19 +42,21 @@
 <br />
 <br/>
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+<a href="https://github.com/mahima-c">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahima-c&theme=light&hide_langs_below=1" />
+</a>
+<a href="https://github.com/mahima-c">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=mahima-c&show_icons=true&theme=light&line_height=27" alt="Mahima's github stats"/>
+</a>
+<a href="https://github.com/mahima-c/Internshala">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mahima-c&repo=Internshala&theme=light" />
 
-  <img align="left" alt="Anna's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mahima-c&show_icons=true&hide_border=true" />
+</a>
+<!-- <a href="https://github.com/iampawan/VelocityX">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iampawan&repo=VelocityX&theme=light" />
+</a>
+ -->
 
-</details>
-<details>
-  <summary>:zap: Most Used Languages</summary>
 
-<img align="left" alt="Anna's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahima-c" />
-
-</details>
 <br/>
-[instagram]: https://www.instagram.com/__mahima__c/
-[linkedin]: https://www.linkedin.com/in/mahima-gupta-470653172/
-[Resume]: https://arsentieva.github.io/profile/
+
