@@ -1,7 +1,7 @@
 # Hi there ,I am Mahima 👋
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahima-c&label=Views&color=blue&style=plastic" alt="mahima-c" /> </p> -->
 
-## A passionate Backend Developer and Python Developer enthusiast !
+## A passionate Backend Developer and Python Developer Enthusiast !
 
 <br/>
 
