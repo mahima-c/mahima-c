@@ -35,14 +35,14 @@ Here are some ideas to get you started:
   <img align="left" alt="Anna's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mahima-c&show_icons=true&hide_border=true" />
 
 </details>
-
+<br/>
 <details>
   <summary>:zap: Most Used Languages</summary>
 
 <img align="left" alt="Anna's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahima-c" />
 
 </details>
-
+<br/>
 [instagram]: https://www.instagram.com/__mahima__c/
 [linkedin]: https://www.linkedin.com/in/mahima-gupta-470653172/
 [Resume]: https://arsentieva.github.io/profile/
