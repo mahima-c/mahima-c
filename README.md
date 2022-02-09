@@ -2,6 +2,7 @@
 A passionate Backend Developer and Python Developer enthusiast !
 <!--
 **mahima-c/mahima-c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 Here are some ideas to get you started:
 
