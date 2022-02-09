@@ -3,6 +3,17 @@ A passionate Backend Developer and Python Developer enthusiast !
 <!--
 **mahima-c/mahima-c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 [<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahima-c&label=Views&color=blue&style=plastic" alt="mahima-c" /> </p>
+<a href="https://www.linkedin.com/in/mahima-gupta-470653172/">
+  <img align="left" alt="Mahima's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/mahima-c">
+  <img align="left" alt="Mahima's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+
+<a href=" https://www.instagram.com/__mahima__c/">
+  <img align="left" alt="Pawan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
 
 Here are some ideas to get you started:
 
