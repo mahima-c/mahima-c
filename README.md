@@ -3,7 +3,7 @@
 
 ## A passionate Backend Developer and Python Developer enthusiast !
 
-
+<br/>
 
 <a href="https://www.linkedin.com/in/mahima-gupta-470653172/">
   <img align="left" alt="Mahima's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -16,6 +16,7 @@
   <img align="left" alt="Pawan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <br/>
+
 
 - 🔭 I’m currently working on Problem Solving Skill
 - 🌱 I’m currently learning Go
