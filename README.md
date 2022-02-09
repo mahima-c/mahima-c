@@ -1,5 +1,5 @@
 ### Hi there ,I am Mahima 👋
-A passionate Backend Developer and Python Developer enthusiast !
+
 
 [<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahima-c&label=Views&color=blue&style=plastic" alt="mahima-c" /> </p>
@@ -14,8 +14,7 @@ A passionate Backend Developer and Python Developer enthusiast !
   <img align="left" alt="Pawan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
-Here are some ideas to get you started:
-
+##A passionate Backend Developer and Python Developer enthusiast !
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Go
 - 👯 I’m looking to collaborate on ...
