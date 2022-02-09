@@ -17,14 +17,14 @@
 </a>
 <br/>
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on Problem Solving Skill
 - 🌱 I’m currently learning Go
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+<!-- - 👯 I’m looking to collaborate on ... -->
+<!-- - 🤔 I’m looking for help with ... -->
+<!-- - 💬 Ask me about ... -->
 - 📫 How to reach me: mahimagupta84000@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: She/her
+<!-- - ⚡ Fun fact: ... -->
 -->
 
 
