@@ -5,7 +5,7 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/mahima-gupta-470653172/">
+<a href="https://www.linkedin.com/in/mahima-470653172/">
   <img align="left" alt="Mahima's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/mahima-c">
