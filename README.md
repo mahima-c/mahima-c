@@ -16,7 +16,6 @@
 <br/>
 
 - 🔭 I’m currently working on Problem Solving Skill
-- 🌱 I’m currently learning Go
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
