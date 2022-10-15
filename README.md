@@ -5,7 +5,7 @@
 </p>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahima-c&label=Views&color=blue&style=plastic" alt="mahima-c" /> </p> -->
  <div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com?color=%0077B5&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Mahima+%F0%9F%91%8B;EIE+Student;Back-End+Engineer;Problem+Solver" alt="Headline" />
+        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Mahima+%F0%9F%91%8B;EIE+Student;Back-End+Engineer;Problem+Solver" alt="Headline" />
     </div>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahima-c&label=Views&color=blue&style=plastic" alt="mahima-c" /> </p> -->
 
