@@ -39,6 +39,17 @@
 <br />
 <br/>
 
+## My Statistics
+
+<br/>
+<p align="left">
+  <a href="https://abhigyantrips.dev/">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=mahima-c&show_icons=true&theme=gruvbox&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=mahima-c&theme=gruvbox&hide_border=true" />
+  </a>
+</p>
+<br>
+
 <a href="https://github.com/mahima-c">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahima-c&theme=light&hide_langs_below=1" />
 </a>
