@@ -5,12 +5,13 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/mahima-470653172/">
-  <img align="left" alt="Mahima's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/mahima-c">
-  <img align="left" alt="Mahima's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
+### 🤝🏻 &nbsp;Connect with Me
+
+<p align="center">
+<a href="https://in.linkedin.com/in/mahima-gupta-470653172"><img src="https://img.shields.io/badge/-Mahima%20Gupta-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:mahimagupta84000@gmail.com"><img src="https://img.shields.io/badge/-mahimagupta84000@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+</p>
+
 
 <br/>
 <br/>
@@ -64,10 +65,4 @@
 
 <br/>
 
-### 🤝🏻 &nbsp;Connect with Me
-
-<p align="center">
-<a href="https://in.linkedin.com/in/mahima-gupta-470653172"><img src="https://img.shields.io/badge/-Mahima%20Gupta-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:mahimagupta84000@gmail.com"><img src="https://img.shields.io/badge/-mahimagupta84000@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-</p>
 
