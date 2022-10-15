@@ -7,6 +7,7 @@
  <div align=center>
         <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Mahima+%F0%9F%91%8B;EIE+Student;Back-End+Engineer;Problem+Solver" alt="Headline" />
     </div>
+<br/>    
 ## A passionate Backend Developer and Python Developer Enthusiast !
 
 <br/>
