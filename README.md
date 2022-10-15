@@ -7,7 +7,7 @@
 <p align="center">
 <a href="https://in.linkedin.com/in/mahima-gupta-470653172"><img src="https://img.shields.io/badge/-Mahima%20Gupta-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:mahimagupta84000@gmail.com"><img src="https://img.shields.io/badge/-mahimagupta84000@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
- <a href="https://leetcode.com/13as1827000713/"><img src="https://img.shields.io/badge/-Mahima%20Gupta-0077B5?style=flat&logo=Leetcode&logoColor=white"/></a>
+ <a href="https://leetcode.com/13as1827000713/"><img src="https://img.shields.io/badge/-Mahima%20Gupta-#FFFFFF?style=flat&logo=Leetcode&logoColor=white"/></a>
   <a href="https://www.codechef.com/users/mahimagupta840"><img src="https://img.shields.io/badge/-Mahima%20Gupta-0077B5?style=flat&logo=Codechef&logoColor=white"/></a>
 
 </p>
