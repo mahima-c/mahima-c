@@ -9,7 +9,7 @@
     </div>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahima-c&label=Views&color=blue&style=plastic" alt="mahima-c" /> </p> -->
 
-## A passionate Backend Developer and Python Developer Enthusiast !
+## A passionate Backend Developer Enthusiast !
 
 <br/>
 <p align="center">
