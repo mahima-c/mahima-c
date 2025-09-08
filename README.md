@@ -15,7 +15,7 @@
 <p align="center">
 <a href="https://in.linkedin.com/in/mahima-gupta-470653172"><img src="https://img.shields.io/badge/-Mahima%20Gupta-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:mahimagupta84000@gmail.com"><img src="https://img.shields.io/badge/-mahimagupta84000@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
- <a href="https://leetcode.com/13as1827000713/"><img src="https://img.shields.io/badge/-Mahima%20Gupta-ffd966?style=flat&logo=Leetcode&logoColor=white"/></a>
+  <a href="https://leetcode.com/13as1827000713/"><img src="https://img.shields.io/badge/-Mahima%20Gupta-ffd966?style=flat&logo=Leetcode&logoColor=white"/></a>
   <a href="https://www.codechef.com/users/mahimagupta840"><img src="https://img.shields.io/badge/-Mahima%20Gupta-ffd966?style=flat&logo=Codechef&logoColor=white"/></a>
 
 </p>
@@ -31,18 +31,6 @@
 - 😄 Pronouns: She/her
 <!-- - ⚡ Fun fact: ... -->
 <img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
-
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Languages & Tools I Know...***
-<p align="left">
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="flask" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
 <br />
 <br/>
