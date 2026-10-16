@@ -1,13 +1,17 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Hi%20there,%20I'm%20Mahima!&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there,+I'm+Mahima+%F0%9F%91%8B;SDE+at+Zomato;Back-End+Engineer;Problem+Solver" alt="Headline" />
 </div>
 
-<div align="center">
-  <h3> 🚀 Backend Developer | SDE at Zomato | Problem Solver </h3>
-  <p>Building scalable, high-performance systems and turning coffee into code.</p>
-</div>
+<p align="center">
+  <a href="https://in.linkedin.com/in/mahima-gupta-470653172"><img src="https://img.shields.io/badge/-Mahima%20Gupta-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+  <a href="mailto:mahimagupta84000@gmail.com"><img src="https://img.shields.io/badge/-mahimagupta84000@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+  <a href="https://leetcode.com/13as1827000713/"><img src="https://img.shields.io/badge/-Mahima%20Gupta-FFA116?style=flat&logo=Leetcode&logoColor=white"/></a>
+  <a href="https://www.codechef.com/users/mahimagupta840"><img src="https://img.shields.io/badge/-Mahima%20Gupta-5B4638?style=flat&logo=Codechef&logoColor=white"/></a>
+</p>
 
 ---
+
+<img align="right" width="220" alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
 
 ### 👨‍💻 About Me
 
@@ -15,9 +19,11 @@
 
 - 🏢 Currently working as an **SDE (Backend)** at **Zomato**, handling complex business logic and scalable systems using **Go**.
 - ⚙️ Deeply interested in **System Design**, **Distributed Systems**, and **API Development**.
-- 🛠️ Actively honing my **Data Structures & Algorithms** and **Problem-Solving** skills.
+- 🛠️ Actively honing my **Data Structures & Algorithms** and **Problem-Solving** skills on LeetCode & CodeChef.
 - 🤝 Always open to collaborating on innovative open-source projects or talking tech!
-- ⚡ **Fun fact:** When I'm not writing code, I'm probably debugging it in my head.
+- 😄 Pronouns: She/her
+
+<br>
 
 ---
 
@@ -43,10 +49,8 @@
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
-<br>
 
 ---
 
@@ -58,8 +62,27 @@
 </div>
 <br>
 <div align="center">
+  <!-- Note: Jupyter Notebook is hidden here so Go & Python show up correctly! -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahima-c&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&hide=jupyter%20notebook" alt="Top Languages" width="50%" />
 </div>
 
 ---
 
+### 🏆 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/mahima-c/Internshala">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahima-c&repo=Internshala&theme=tokyonight&bg_color=0D1117&hide_border=true" />
+  </a>
+  <a href="https://github.com/mahima-c/AkgGram">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahima-c&repo=AkgGram&theme=tokyonight&bg_color=0D1117&hide_border=true" />
+  </a>
+  <a href="https://github.com/mahima-c/Sales-Analysics">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahima-c&repo=Sales-Analysics&theme=tokyonight&bg_color=0D1117&hide_border=true" />
+  </a>
+  <a href="https://github.com/mahima-c/Mask-Detection">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahima-c&repo=Mask-Detection&theme=tokyonight&bg_color=0D1117&hide_border=true" />
+  </a>
+</p>
+
+<br>
